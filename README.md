@@ -1,2 +1,3 @@
-# Cancer_Analysis
-Exploring CDC-provided cancer data to discern trends and factors that contribute to cancer rates and deaths in the United States. 
+# Emissions_Analysis
+
+Exploring FOA and IPCC data along with crop yield data to gain insight into deforestation and its effect on emissions and other relevant insights.
