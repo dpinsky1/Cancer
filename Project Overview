@@ -1,0 +1,32 @@
+Project Title: CO2 Analysis by country
+
+Team Members: David Pinsky, Nathan-Andrew Tompkins, Martin Bedino, Nathaniel Mizzel
+
+Project: Analyze the CO2 emissions across numerous countries, their methods of release against the population sizes, emissions vs. temperatures, rice cultivation emissions vs yield, rural vs urban CO2 emissions, etc.
+
+Research Questions to Answer: 
+
+How much, on average, do urban cities emit CO2 more than rural areas?
+What is the total emission per country? 
+Nathan-Andrew: How did the CO2 emissions change as the forest land changed over the 20 years?
+Nathaniel: How did the CO2 levels / temperatures change with population changes?
+Does a forest land decrease mean an increase in population?
+David: Is there a relationship between CO2 Emissions and rice yield?
+Martin: Analyze male/female population split vs emissions?
+
+Datasets to Be Used
+Agri-food CO2 emission dataset - Forecasting ML - https://www.kaggle.com/datasets/alessandrolobello/agri-food-co2-emission-dataset-forecasting-ml?resource=download
+
+Crop Yields - 
+https://ourworldindata.org/crop-yields#explore-data-on-crop-yields
+
+Rough Breakdown of Tasks - 
+
+Clean: Clean data sets, preparing it for data analysis, merging the data sets 
+	Nathaniel the janitor
+
+Analyze: All participants choose a question to analyze themselves
+
+Visualize: Martin finalizes the final charts for consistency.
+
+Present: All participants present their question and subsequent analysis.
