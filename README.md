@@ -23,3 +23,11 @@ Exploring FAO and IPCC data along with crop yield data to gain insight into defo
 3b. Regional Emissions and Temperature over time.\
 3c. Emissions vs. Temperature by region.\
 3d. Statistical Analysis
+
+4. Food Retail Emissions vs Population
+4a. Question: Does the percentage of CO2 Emissions increase as the urban population increases?
+4b. Sub-Regions with notable results
+4c. Linear Regressions where they may be found
+4d. Conclusion
+
+
